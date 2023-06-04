@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro SD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro SD
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/372340
-#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro HD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro HD
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/372341
-#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",MUNDO TORO TV
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/151703
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV FHD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV FHD
+http://95661660159441850.ofio.xyz:80/play/mm08108/8798764/441850.ts
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (x)" -title="Espana",MundoVaca Tv
+http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV HD
+http://95661660159441851.ofio.xyz:80/play/mm08108/8798764/441851.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV SD
+http://95661660159441852.ofio.xyz:80/play/mm08108/8798764/441852.ts
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",ESP-4: ▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4295
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ESP-4: BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES: ESPAÑA⚽",ESP-4: BARCA TV
