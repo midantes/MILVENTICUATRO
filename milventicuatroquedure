@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV FHD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV FHD
 http://95661660159441850.ofio.xyz:80/play/mm08108/8798764/441850.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="M+ TOROS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="ES MUNDOTORO PPV",M+ TOROS HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39674.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (x)" -title="Espana",MundoVaca Tv
 http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV HD
